@@ -4,7 +4,7 @@
 # import pandas as pd
 
 # # OpenWeather API Key
-# API_KEY = "4a7e1b58e66ee9b0580e65ade4b176cc"
+# API_KEY = "PASTE YOUR API KEY HERE.." #CHECK README FILE FOR MORE DETAILS.
 # BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 # # Streamlit UI
